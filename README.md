@@ -4,4 +4,8 @@ TBH probs shouldn't use this as is, it does have access to executing scripts / f
 ## API-Key
 paste your API-Key within a .env file
 
+## Pre-reqs
+1. Python 3.10+ installed
+2. uv project package manager
+
 
